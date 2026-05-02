@@ -25,7 +25,7 @@ The system is powered by a custom knowledge base that includes:
 
 ## Attribution & Thanks
 
-This project makes use of source files and documentation from the **[openhwgroup/cvw](https://github.com/openhwgroup/cvw)** repository — the official home of the **CORE-V Wally** configurable RISC-V processor. 
+This project makes use of source files from the **[openhwgroup/cvw](https://github.com/openhwgroup/cvw)** repository — the official home of the **CORE-V Wally** configurable RISC-V processor. 
 
 I would like to thank the OpenHW Group and the Wally development team for providing such a high-quality open-source SystemVerilog codebase.
 
