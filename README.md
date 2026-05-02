@@ -21,7 +21,7 @@ This project was developed as part of the final project for my computer engineer
 The system is powered by a custom knowledge base that includes:
 - Academic lecture notes and project documentation
 - SystemVerilog reference materials
-- High-quality, real-world RTL examples from the **[CORE-V Wally RISC-V Processor](https://github.com/openhwgroup/cvw)** (OpenHW Group)
+- Real-world  SystemVerilog examples from **CORE-V Wally RISC-V Processor**
 
 ## Attribution & Thanks
 
