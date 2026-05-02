@@ -16,7 +16,7 @@ This project was developed as part of the final project for my computer engineer
 - **Response Logging** – All generations are saved with timestamps for review
 - **Robust Document Processing** – Handles PDFs and SystemVerilog source files with smart chunking
 
-  ## Knowledge Base
+## Knowledge Base
 
 The system is powered by a custom knowledge base that includes:
 - Academic lecture notes and project documentation
