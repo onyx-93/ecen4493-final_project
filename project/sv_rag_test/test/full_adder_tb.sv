@@ -1,3 +1,7 @@
+// Copyright [2026] [Daniel A Dubon]
+// SPDX-License-Identifier: Apache-2.0
+
+
 `timescale 1ns / 1ps
 module tb ();
 
