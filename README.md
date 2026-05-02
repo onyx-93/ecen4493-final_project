@@ -21,7 +21,7 @@ This project was developed as part of the final project for my computer engineer
 The system is powered by a custom knowledge base that includes:
 - Academic lecture notes and project documentation
 - SystemVerilog reference materials
-- Real-world  SystemVerilog examples from **CORE-V Wally RISC-V Processor**
+- Real-world  SystemVerilog examples from **CORE-V Wally RISC-V Processor** 
 
 ## Attribution & Thanks
 
