@@ -1,4 +1,4 @@
-// Copyright [2026] [Daniel A Dubon]
+// Copyright 2026 Daniel A. Dubon
 // SPDX-License-Identifier: Apache-2.0
 
 
