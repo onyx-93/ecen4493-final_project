@@ -33,7 +33,7 @@ This project was developed as part of the final project for my computer engineer
 
 ## Installation & Setup
 
-1. **Clone the repository**
+1. **Knowledge Base**
    ```bash
    git clone <repo-url>
    cd sv-rag
