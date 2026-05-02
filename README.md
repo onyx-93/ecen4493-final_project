@@ -16,6 +16,19 @@ This project was developed as part of the final project for my computer engineer
 - **Response Logging** – All generations are saved with timestamps for review
 - **Robust Document Processing** – Handles PDFs and SystemVerilog source files with smart chunking
 
+  ## Knowledge Base
+
+The system is powered by a custom knowledge base that includes:
+- Academic lecture notes and project documentation
+- SystemVerilog reference materials
+- High-quality, real-world RTL examples from the **[CORE-V Wally RISC-V Processor](https://github.com/openhwgroup/cvw)** (OpenHW Group)
+
+## Attribution & Thanks
+
+This project makes use of source files and documentation from the **[openhwgroup/cvw](https://github.com/openhwgroup/cvw)** repository — the official home of the **CORE-V Wally** configurable RISC-V processor. 
+
+I would like to thank the OpenHW Group and the Wally development team for providing such a high-quality open-source SystemVerilog codebase.
+
 ## Project Goals
 
 - Reduce hallucinations in HDL generation
