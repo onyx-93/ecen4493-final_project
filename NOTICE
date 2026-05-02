@@ -1,0 +1,20 @@
+LLM for SystemVerilog Code Generation
+Copyright [2026] [Daniel A. Dubon]
+
+This project was originally developed by Daniel A. Dubon as part of 
+the ECEN 4493 - AI in Engineering course at Oklahoma State University.
+
+Licensed under the Apache License, Version 2.0;
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://apache.org
+
+-------------------------------------------------------------------------
+
+This project includes files and hardware designs from the CORE-V Wally 
+Processor (https://github.com/openhwgroup/cvw), developed by the 
+OpenHW Group.
+
+The CORE-V Wally components are used under the terms of the Solderpad 
+Hardware License v2.1 (which incorporates the Apache License 2.0). 
+Copyright (c) 2021-2024 OpenHW Group and contributors.
